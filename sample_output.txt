@@ -1,0 +1,65 @@
+============================================================
+   Word and Character Counter - Task 11 by M. Rohithanjan   
+============================================================
+
+Menu:
+1. Enter my own paragraph
+2. Use the sample paragraph
+3. Exit
+
+Enter your choice (1-3): 2
+
+Using the sample paragraph...
+
+--- Text Analysis Results ---
+Paragraph:
+Python is a simple and powerful programming language. It is great for beginners who want to learn coding! Can we use Python to process text and count words? Yes, string methods make text analysis very easy.
+-----------------------------
+Total characters (with spaces) : 206
+Characters (without spaces)    : 171
+Total words                    : 36
+Total sentences                : 4
+Total spaces                   : 35
+-----------------------------
+
+Menu:
+1. Enter my own paragraph
+2. Use the sample paragraph
+3. Exit
+
+Enter your choice (1-3): 1
+
+Enter your paragraph:
+
+
+Please enter a valid paragraph! Input cannot be empty or just spaces.
+
+Menu:
+1. Enter my own paragraph
+2. Use the sample paragraph
+3. Exit
+
+Enter your choice (1-3): 1
+
+Enter your paragraph:
+Hello everyone! Welcome to my Veda Technology internship project... Are you ready to test this counter?!
+
+--- Text Analysis Results ---
+Paragraph:
+Hello everyone! Welcome to my Veda Technology internship project... Are you ready to test this counter?!
+-----------------------------
+Total characters (with spaces) : 104
+Characters (without spaces)    : 89
+Total words                    : 16
+Total sentences                : 3
+Total spaces                   : 15
+-----------------------------
+
+Menu:
+1. Enter my own paragraph
+2. Use the sample paragraph
+3. Exit
+
+Enter your choice (1-3): 3
+
+Thank you for using the Word and Character Counter. Goodbye!
